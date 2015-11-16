@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/qjelinek/Desktop/FtcDriver/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="55ecd0b0517650a2cffd06137a40de8af3bbbde3">
+        <dex dex="/home/qjelinek/Desktop/FtcDriver/build/intermediates/pre-dexed/debug/classes-78427962c09a0db689f2900ab1dd62fe99733569.jar" />
+    </item>
+    <item
+        jar="/home/qjelinek/Desktop/FtcDriver/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6da7d9bc8c9a82321450b6b4273d1746b6cade21">
+        <dex dex="/home/qjelinek/Desktop/FtcDriver/build/intermediates/pre-dexed/debug/classes-2b0c32b3d26c5621a5c459b73918157c9e261455.jar" />
+    </item>
+    <item
+        jar="/home/qjelinek/Desktop/FtcDriver/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad4adcdf8eb6ff2b3b4fe9f1d676f099db621d60">
+        <dex dex="/home/qjelinek/Desktop/FtcDriver/build/intermediates/pre-dexed/debug/classes-7789ebf58e6c5c0441b9d81a7a31c793e4b70cfd.jar" />
+    </item>
+    <item
+        jar="/home/qjelinek/Desktop/FtcDriver/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="/home/qjelinek/Desktop/FtcDriver/build/intermediates/pre-dexed/debug/classes-81f59e4ac2345cfbf1751371b894f5b14b5bdb03.jar" />
+    </item>
+    <item
+        jar="/home/qjelinek/Desktop/FtcDriver/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="/home/qjelinek/Desktop/FtcDriver/build/intermediates/pre-dexed/debug/classes-87218dec747577f7d0e7bdcdd8d708194990beac.jar" />
+    </item>
+    <item
+        jar="/home/qjelinek/Desktop/FtcDriver/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2ec6f06847bccfe30fb8f8f75ce888721e4fd275">
+        <dex dex="/home/qjelinek/Desktop/FtcDriver/build/intermediates/pre-dexed/debug/classes-6faa1f7b235e4c2fb7e4c2104447e87f722a90a4.jar" />
+    </item>
+
+</items>
